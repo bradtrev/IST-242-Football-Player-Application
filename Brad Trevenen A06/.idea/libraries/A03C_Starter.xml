@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="A03C_Starter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/A03C_Starter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
